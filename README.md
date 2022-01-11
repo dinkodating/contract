@@ -1,2 +1,3 @@
-# contract
-smart contract for the dinko dating token
+# Smart contract Page for the Dinko Dating Project
+
+This is the official smart contract project page for the dinko dating token
